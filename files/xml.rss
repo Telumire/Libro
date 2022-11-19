@@ -6,8 +6,16 @@
   <link>https://Telumire.github.io/Libro/xml.rss</link>
   <description>A custom tiddlywiki edition</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 19 Nov 2022 15:52:22 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Nov 2022 16:02:19 GMT</lastBuildDate>
 	<item>
+      <title>A second article in the feed</title>
+      <description></description>
+      <category>article</category>
+      <content:encoded><![CDATA[<p>This is an article that should also appear in the RSS feed.</p>]]></content:encoded>
+	  <pubDate>Sat, 19 Nov 2022 16:02:19 GMT</pubDate>
+      <link>https://Telumire.github.io/Libro/xml.rss#A%20second%20article%20in%20the%20feed</link>
+      <guid isPermaLink='true'>https://Telumire.github.io/Libro/xml.rss#A%20second%20article%20in%20the%20feed</guid>
+   </item><item>
       <title>A new article in the feed!</title>
       <description></description>
       <category>article</category>
