@@ -6,8 +6,16 @@
   <link>https://libro.tiddlyhost.com/</link>
   <description>A custom tiddlywiki edition</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 19 Nov 2022 16:10:59 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Nov 2022 16:32:27 GMT</lastBuildDate>
 	<item>
+      <title>A third article in the feed</title>
+      <description></description>
+      <category>article</category>
+      <content:encoded><![CDATA[<p>Final article to test.</p>]]></content:encoded>
+	  <pubDate>Sat, 19 Nov 2022 16:32:27 GMT</pubDate>
+      <link>https://libro.tiddlyhost.com/#A%20third%20article%20in%20the%20feed</link>
+      <guid isPermaLink='true'>https://Telumire.github.io/Libro/xml.rss#A%20third%20article%20in%20the%20feed</guid>
+   </item><item>
       <title>A second article in the feed</title>
       <description></description>
       <category>article</category>
