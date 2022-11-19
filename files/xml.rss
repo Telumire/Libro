@@ -3,10 +3,10 @@
 <channel>
   <atom:link href="https://Telumire.github.io/Libro/files/xml.rss" rel="self" type="application/rss+xml" />
   <title>Libro</title>
-  <link>https://Telumire.github.io/Libro/xml.rss</link>
+  <link>https://libro.tiddlyhost.com/</link>
   <description>A custom tiddlywiki edition</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 19 Nov 2022 16:10:46 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Nov 2022 16:10:59 GMT</lastBuildDate>
 	<item>
       <title>A second article in the feed</title>
       <description></description>
