@@ -6,12 +6,12 @@
   <link>https://libro.tiddlyhost.com/</link>
   <description>A custom tiddlywiki edition</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 19 Nov 2022 17:00:26 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Nov 2022 17:28:36 GMT</lastBuildDate>
 	<item>
       <title>Now it should work!</title>
       <description></description>
       <category>announcement</category>
-      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FLibro%2FSettings%2FFeed">$:/Libro/Settings/Feed</a></p><p>This is made possible thanks to the file upload plugin.</p>]]></$let></content:encoded>
+      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FLibro%2FSettings%2FFeed">$:/Libro/Settings/Feed</a></p><p>This is made possible thanks to the file upload plugin.</p>]]></content:encoded>
 	  <pubDate>Sat, 19 Nov 2022 17:00:17 GMT</pubDate>
       <link>https://libro.tiddlyhost.com/#Now%20it%20should%20work!</link>
       <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Now%20it%20should%20work!</guid>
@@ -19,7 +19,7 @@
       <title>Tes link in RSS feed</title>
       <description></description>
       <category>announcement</category>
-      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FLibro%2FSettings%2FFeed">$:/Libro/Settings/Feed</a></p><p>This is made possible thanks to the file upload plugin.</p>]]></$let></content:encoded>
+      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FLibro%2FSettings%2FFeed">$:/Libro/Settings/Feed</a></p><p>This is made possible thanks to the file upload plugin.</p>]]></content:encoded>
 	  <pubDate>Sat, 19 Nov 2022 16:53:45 GMT</pubDate>
       <link>https://libro.tiddlyhost.com/#Tes%20link%20in%20RSS%20feed</link>
       <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Tes%20link%20in%20RSS%20feed</guid>
@@ -27,7 +27,7 @@
       <title>Libro now support RSS feed generation</title>
       <description></description>
       <category>announcement</category>
-      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FLibro%2FSettings%2FFeed">$:/Libro/Settings/Feed</a></p><p>This is made possible thanks to the file upload plugin.</p>]]></$let></content:encoded>
+      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FLibro%2FSettings%2FFeed">$:/Libro/Settings/Feed</a></p><p>This is made possible thanks to the file upload plugin.</p>]]></content:encoded>
 	  <pubDate>Sat, 19 Nov 2022 16:46:33 GMT</pubDate>
       <link>https://libro.tiddlyhost.com/#Libro%20now%20support%20RSS%20feed%20generation</link>
       <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Libro%20now%20support%20RSS%20feed%20generation</guid>
