@@ -6,31 +6,15 @@
   <link>https://libro.tiddlyhost.com/</link>
   <description>A custom tiddlywiki edition</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 19 Nov 2022 16:32:27 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Nov 2022 16:46:33 GMT</lastBuildDate>
 	<item>
-      <title>A third article in the feed</title>
+      <title>Libro now support RSS feed generation</title>
       <description></description>
-      <category>article</category>
-      <content:encoded><![CDATA[<p>Final article to test.</p>]]></content:encoded>
-	  <pubDate>Sat, 19 Nov 2022 16:32:27 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#A%20third%20article%20in%20the%20feed</link>
-      <guid isPermaLink='true'>https://Telumire.github.io/Libro/xml.rss#A%20third%20article%20in%20the%20feed</guid>
-   </item><item>
-      <title>A second article in the feed</title>
-      <description></description>
-      <category>article</category>
-      <content:encoded><![CDATA[<p>This is an article that should also appear in the RSS feed.</p>]]></content:encoded>
-	  <pubDate>Sat, 19 Nov 2022 16:02:19 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#A%20second%20article%20in%20the%20feed</link>
-      <guid isPermaLink='true'>https://Telumire.github.io/Libro/xml.rss#A%20second%20article%20in%20the%20feed</guid>
-   </item><item>
-      <title>A new article in the feed!</title>
-      <description></description>
-      <category>article</category>
-      <content:encoded><![CDATA[<p>This is an article that should appear in the RSS feed.</p>]]></content:encoded>
-	  <pubDate>Sat, 19 Nov 2022 15:18:38 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#A%20new%20article%20in%20the%20feed!</link>
-      <guid isPermaLink='true'>https://Telumire.github.io/Libro/xml.rss#A%20new%20article%20in%20the%20feed!</guid>
+      <category>announcement</category>
+      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#%24%3A%2FLibro%2FSettings%2FFeed">$:/Libro/Settings/Feed</a></p><p>This is made possible thanks to the file upload plugin.</p>]]></content:encoded>
+	  <pubDate>Sat, 19 Nov 2022 16:46:33 GMT</pubDate>
+      <link>https://libro.tiddlyhost.com/#Libro%20now%20support%20RSS%20feed%20generation</link>
+      <guid isPermaLink='true'>https://Telumire.github.io/Libro/xml.rss#Libro%20now%20support%20RSS%20feed%20generation</guid>
    </item>
 </channel>
 </rss>
