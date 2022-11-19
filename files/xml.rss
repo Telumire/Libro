@@ -6,15 +6,23 @@
   <link>https://libro.tiddlyhost.com/</link>
   <description>A custom tiddlywiki edition</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 19 Nov 2022 16:46:33 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Nov 2022 16:53:54 GMT</lastBuildDate>
 	<item>
+      <title>Tes link in RSS feed</title>
+      <description></description>
+      <category>announcement</category>
+      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#%24%3A%2FLibro%2FSettings%2FFeed">$:/Libro/Settings/Feed</a></p><p>This is made possible thanks to the file upload plugin.</p>]]></content:encoded>
+	  <pubDate>Sat, 19 Nov 2022 16:53:45 GMT</pubDate>
+      <link>https://libro.tiddlyhost.com/#Tes%20link%20in%20RSS%20feed</link>
+      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Tes%20link%20in%20RSS%20feed</guid>
+   </item><item>
       <title>Libro now support RSS feed generation</title>
       <description></description>
       <category>announcement</category>
       <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#%24%3A%2FLibro%2FSettings%2FFeed">$:/Libro/Settings/Feed</a></p><p>This is made possible thanks to the file upload plugin.</p>]]></content:encoded>
 	  <pubDate>Sat, 19 Nov 2022 16:46:33 GMT</pubDate>
       <link>https://libro.tiddlyhost.com/#Libro%20now%20support%20RSS%20feed%20generation</link>
-      <guid isPermaLink='true'>https://Telumire.github.io/Libro/xml.rss#Libro%20now%20support%20RSS%20feed%20generation</guid>
+      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Libro%20now%20support%20RSS%20feed%20generation</guid>
    </item>
 </channel>
 </rss>
