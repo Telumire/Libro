@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <atom:link href="https://Telumire.github.io/Libro/files/xml.rss" rel="self" type="application/rss+xml" />
+  <title>Libro</title>
+  <link>https://Telumire.github.io/Libro/xml.rss</link>
+  <description>A custom tiddlywiki edition</description>
+  <language>en-GB</language>
+  <lastBuildDate>Sat, 19 Nov 2022 15:46:32 GMT</lastBuildDate>
+	<item>
+      <title>A new article in the feed!</title>
+      <description></description>
+      <category>article</category>
+      <content:encoded><![CDATA[<p>This is an article that should appear in the RSS feed.</p>]]></content:encoded>
+	  <pubDate>Sat, 19 Nov 2022 15:18:38 GMT</pubDate>
+      <link>https://Telumire.github.io/Libro/xml.rss#A%20new%20article%20in%20the%20feed!</link>
+      <guid isPermaLink='true'>https://Telumire.github.io/Libro/xml.rss#A%20new%20article%20in%20the%20feed!</guid>
+   </item>
+</channel>
+</rss>
