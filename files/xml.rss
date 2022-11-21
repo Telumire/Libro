@@ -6,13 +6,13 @@
   <link>https://libro.tiddlyhost.com/</link>
   <description>A custom tiddlywiki edition</description>
   <language>en-GB</language>
-  <lastBuildDate>Mon, 21 Nov 2022 02:22:56 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Nov 2022 02:25:39 GMT</lastBuildDate>
 	<item>
       <title>Add a dropdown button to group the various file upload tools</title>
       <description></description>
       <category>$:/Feed</category>
-      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-missing" href="https://libro.tiddlyhost.com/#%24%3A%2Flibro%2FFileUpload%2FDropDown%2FButton.">$:/libro/FileUpload/DropDown/Button.</a></p><p>This is to avoid clutter in the toolbar.</p>]]></content:encoded>
-	  <pubDate>Mon, 21 Nov 2022 02:22:56 GMT</pubDate>
+      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2Flibro%2FFileUpload%2FDropDown%2FButton">$:/libro/FileUpload/DropDown/Button</a>.</p><p>This is to avoid clutter in the toolbar.</p>]]></content:encoded>
+	  <pubDate>Mon, 21 Nov 2022 02:25:39 GMT</pubDate>
       <link>https://libro.tiddlyhost.com/#Add%20a%20dropdown%20button%20to%20group%20the%20various%20file%20upload%20tools</link>
       <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Add%20a%20dropdown%20button%20to%20group%20the%20various%20file%20upload%20tools</guid>
    </item><item>
