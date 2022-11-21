@@ -15,7 +15,7 @@ Styles
 
 Buttons
 
-* Save to Github button
+* RSS, images, wiki export
 * Theme switcher
 
 QOL
@@ -23,4 +23,3 @@ QOL
 * Alternative link
 * Description and source templates
 * Custom shortcuts
-* RSS, images, wiki export
