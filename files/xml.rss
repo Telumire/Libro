@@ -6,8 +6,16 @@
   <link>https://libro.tiddlyhost.com/</link>
   <description>A custom tiddlywiki edition</description>
   <language>en-GB</language>
-  <lastBuildDate>Mon, 21 Nov 2022 02:30:53 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Nov 2022 20:26:58 GMT</lastBuildDate>
 	<item>
+      <title>Added GitHub comments plugin</title>
+      <description></description>
+      <category>$:/Feed</category>
+      <content:encoded><![CDATA[<p>Link to the plugin: <a class="tc-tiddlylink-external" href="https://github.com/breakzplatform/tw5-github-comments" rel="noopener noreferrer" target="_blank">https://github.com/breakzplatform/tw5-github-comments</a></p><p>It's great, very easy to setup.</p>]]></content:encoded>
+	  <pubDate>Mon, 21 Nov 2022 20:26:58 GMT</pubDate>
+      <link>https://libro.tiddlyhost.com/#Added%20GitHub%20comments%20plugin</link>
+      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Added%20GitHub%20comments%20plugin</guid>
+   </item><item>
       <title>Updated $:/Feed</title>
       <description></description>
       <category>$:/Feed</category>
