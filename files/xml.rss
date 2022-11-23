@@ -6,8 +6,17 @@
   <link>https://libro.tiddlyhost.com/</link>
   <description>A custom tiddlywiki edition</description>
   <language>en-GB</language>
-  <lastBuildDate>Mon, 21 Nov 2022 20:26:58 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 23 Nov 2022 22:56:36 GMT</lastBuildDate>
 	<item>
+      <title>Added a simple way to support en/fr translation on a tiddler basis</title>
+      <description></description>
+      <category>$:/Feed</category>
+      <content:encoded><![CDATA[<p>Create a field <code>lang</code> and set it to the language of the tiddler, for now <code>en</code> OR <code>fr</code>
+Then set a field <code>fr</code> OR <code>en</code> containing the name of the translated tiddler.</p><p><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FLibro%2FTranslation">$:/Libro/Translation</a></p>]]></content:encoded>
+	  <pubDate>Wed, 23 Nov 2022 22:56:36 GMT</pubDate>
+      <link>https://libro.tiddlyhost.com/#Added%20a%20simple%20way%20to%20support%20en%2Ffr%20translation%20on%20a%20tiddler%20basis</link>
+      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Added%20a%20simple%20way%20to%20support%20en%2Ffr%20translation%20on%20a%20tiddler%20basis</guid>
+   </item><item>
       <title>Added GitHub comments plugin</title>
       <description></description>
       <category>$:/Feed</category>
