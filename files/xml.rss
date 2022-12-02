@@ -6,8 +6,16 @@
   <link>https://libro.tiddlyhost.com/</link>
   <description>A custom tiddlywiki edition</description>
   <language>en-GB</language>
-  <lastBuildDate>Wed, 23 Nov 2022 22:56:36 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Dec 2022 14:55:43 GMT</lastBuildDate>
 	<item>
+      <title>Added loading screen</title>
+      <description></description>
+      <category>$:/Feed</category>
+      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FSplashScreen">$:/SplashScreen</a></p>]]></content:encoded>
+	  <pubDate>Fri, 02 Dec 2022 14:55:43 GMT</pubDate>
+      <link>https://libro.tiddlyhost.com/#Added%20loading%20screen</link>
+      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Added%20loading%20screen</guid>
+   </item><item>
       <title>Added a simple way to support en/fr translation on a tiddler basis</title>
       <description></description>
       <category>$:/Feed</category>
