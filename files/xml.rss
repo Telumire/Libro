@@ -6,8 +6,24 @@
   <link>https://libro.tiddlyhost.com/</link>
   <description>A custom tiddlywiki edition</description>
   <language>en-GB</language>
-  <lastBuildDate>Fri, 02 Dec 2022 14:55:43 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 03 Dec 2022 03:07:56 GMT</lastBuildDate>
 	<item>
+      <title>Updated editor macro and comment shortcut to be able to set the comment shortcut for css and js with the editor macro</title>
+      <description></description>
+      <category>$:/Feed</category>
+      <content:encoded><![CDATA[<ul><li><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FEditor%2FMacro">$:/Editor/Macro</a></li><li><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FTiddlyTweaks%2FShortcut%2FComment">$:/TiddlyTweaks/Shortcut/Comment</a></li></ul>]]></content:encoded>
+	  <pubDate>Sat, 03 Dec 2022 03:07:56 GMT</pubDate>
+      <link>https://libro.tiddlyhost.com/#Updated%20editor%20macro%20and%20comment%20shortcut%20to%20be%20able%20to%20set%20the%20comment%20shortcut%20for%20css%20and%20js%20with%20the%20editor%20macro</link>
+      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Updated%20editor%20macro%20and%20comment%20shortcut%20to%20be%20able%20to%20set%20the%20comment%20shortcut%20for%20css%20and%20js%20with%20the%20editor%20macro</guid>
+   </item><item>
+      <title>Removed styling for tags and enabled icons for internal links</title>
+      <description></description>
+      <category>$:/Feed</category>
+      <content:encoded><![CDATA[<p><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FLibro%2FExternalLinksIcon%2FStyle">$:/Libro/ExternalLinksIcon/Style</a></p>]]></content:encoded>
+	  <pubDate>Sat, 03 Dec 2022 03:05:35 GMT</pubDate>
+      <link>https://libro.tiddlyhost.com/#Removed%20styling%20for%20tags%20and%20enabled%20icons%20for%20internal%20links</link>
+      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Removed%20styling%20for%20tags%20and%20enabled%20icons%20for%20internal%20links</guid>
+   </item><item>
       <title>Added loading screen</title>
       <description></description>
       <category>$:/Feed</category>
