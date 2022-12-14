@@ -6,8 +6,24 @@
   <link>https://libro.tiddlyhost.com/</link>
   <description>A custom tiddlywiki edition</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 03 Dec 2022 03:07:56 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Dec 2022 01:10:51 GMT</lastBuildDate>
 	<item>
+      <title>Upgraded libro to TW 5.2.4</title>
+      <description></description>
+      <category>$:/Feed</category>
+      <content:encoded><![CDATA[<ul><li><a class="tc-tiddlylink-external" href="https://libro.tiddlyhost.com" rel="noopener noreferrer" target="_blank">https://libro.tiddlyhost.com</a></li><li><a class="tc-tiddlylink-external" href="https://libro-external-js.tiddlyhost.com" rel="noopener noreferrer" target="_blank">https://libro-external-js.tiddlyhost.com</a></li></ul>]]></content:encoded>
+	  <pubDate>Wed, 14 Dec 2022 01:10:51 GMT</pubDate>
+      <link>https://libro.tiddlyhost.com/#Upgraded%20libro%20to%20TW%205.2.4</link>
+      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Upgraded%20libro%20to%20TW%205.2.4</guid>
+   </item><item>
+      <title>Libro now support RSS feed generation</title>
+      <description></description>
+      <category>$:/Feed</category>
+      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FFeed%2FSettings">$:/Feed/Settings</a></p><p>This is made possible thanks to the file upload plugin.</p>]]></content:encoded>
+	  <pubDate>Tue, 06 Dec 2022 10:35:09 GMT</pubDate>
+      <link>https://libro.tiddlyhost.com/#Libro%20now%20support%20RSS%20feed%20generation</link>
+      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Libro%20now%20support%20RSS%20feed%20generation</guid>
+   </item><item>
       <title>Updated editor macro and comment shortcut to be able to set the comment shortcut for css and js with the editor macro</title>
       <description></description>
       <category>$:/Feed</category>
@@ -64,14 +80,6 @@ Then set a field <code>fr</code> OR <code>en</code> containing the name of the t
 	  <pubDate>Mon, 21 Nov 2022 02:25:39 GMT</pubDate>
       <link>https://libro.tiddlyhost.com/#Add%20a%20dropdown%20button%20to%20group%20the%20various%20file%20upload%20tools</link>
       <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Add%20a%20dropdown%20button%20to%20group%20the%20various%20file%20upload%20tools</guid>
-   </item><item>
-      <title>Libro now support RSS feed generation</title>
-      <description></description>
-      <category>$:/Feed</category>
-      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FLibro%2FSettings%2FFeed">$:/Libro/Settings/Feed</a></p><p>This is made possible thanks to the file upload plugin.</p>]]></content:encoded>
-	  <pubDate>Mon, 21 Nov 2022 02:22:56 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#Libro%20now%20support%20RSS%20feed%20generation</link>
-      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Libro%20now%20support%20RSS%20feed%20generation</guid>
    </item><item>
       <title>Updated $:/Libro/ExternalLinksIcon/Style</title>
       <description></description>
