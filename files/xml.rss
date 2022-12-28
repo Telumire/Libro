@@ -2,96 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
   <atom:link href="https://Telumire.github.io/Libro/files/xml.rss" rel="self" type="application/rss+xml" />
-  <title>Libro</title>
-  <link>https://libro.tiddlyhost.com/</link>
-  <description>A custom tiddlywiki edition</description>
+  <title>RSS</title>
+  <link>https://rss.tiddlyhost.com</link>
+  <description>Rss feed in tiddlywiki</description>
   <language>en-GB</language>
-  <lastBuildDate>Wed, 14 Dec 2022 01:11:32 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Dec 2022 21:47:38 GMT</lastBuildDate>
 	<item>
-      <title>Upgraded libro to TW 5.2.4</title>
+      <title>Updated $:/Feed/Settings</title>
       <description></description>
-      <category>$:/Feed</category>
-      <content:encoded><![CDATA[<ul><li><a class="tc-tiddlylink-external" href="https://libro.tiddlyhost.com" rel="noopener noreferrer" target="_blank">https://libro.tiddlyhost.com</a></li><li><a class="tc-tiddlylink-external" href="https://libro-external-js.tiddlyhost.com" rel="noopener noreferrer" target="_blank">https://libro-external-js.tiddlyhost.com</a></li></ul>]]></content:encoded>
-	  <pubDate>Wed, 14 Dec 2022 01:10:51 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#Upgraded%20libro%20to%20TW%205.2.4</link>
-      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Upgraded%20libro%20to%20TW%205.2.4</guid>
-   </item><item>
-      <title>Libro now support RSS feed generation</title>
-      <description></description>
-      <category>$:/Feed</category>
-      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FFeed%2FSettings">$:/Feed/Settings</a></p><p>This is made possible thanks to the file upload plugin.</p>]]></content:encoded>
-	  <pubDate>Tue, 06 Dec 2022 10:35:09 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#Libro%20now%20support%20RSS%20feed%20generation</link>
-      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Libro%20now%20support%20RSS%20feed%20generation</guid>
-   </item><item>
-      <title>Updated editor macro and comment shortcut to be able to set the comment shortcut for css and js with the editor macro</title>
-      <description></description>
-      <category>$:/Feed</category>
-      <content:encoded><![CDATA[<ul><li><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FEditor%2FMacro">$:/Editor/Macro</a></li><li><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FTiddlyTweaks%2FShortcut%2FComment">$:/TiddlyTweaks/Shortcut/Comment</a></li></ul>]]></content:encoded>
-	  <pubDate>Sat, 03 Dec 2022 03:07:56 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#Updated%20editor%20macro%20and%20comment%20shortcut%20to%20be%20able%20to%20set%20the%20comment%20shortcut%20for%20css%20and%20js%20with%20the%20editor%20macro</link>
-      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Updated%20editor%20macro%20and%20comment%20shortcut%20to%20be%20able%20to%20set%20the%20comment%20shortcut%20for%20css%20and%20js%20with%20the%20editor%20macro</guid>
-   </item><item>
-      <title>Removed styling for tags and enabled icons for internal links</title>
-      <description></description>
-      <category>$:/Feed</category>
-      <content:encoded><![CDATA[<p><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FLibro%2FExternalLinksIcon%2FStyle">$:/Libro/ExternalLinksIcon/Style</a></p>]]></content:encoded>
-	  <pubDate>Sat, 03 Dec 2022 03:05:35 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#Removed%20styling%20for%20tags%20and%20enabled%20icons%20for%20internal%20links</link>
-      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Removed%20styling%20for%20tags%20and%20enabled%20icons%20for%20internal%20links</guid>
-   </item><item>
-      <title>Added loading screen</title>
-      <description></description>
-      <category>$:/Feed</category>
-      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FSplashScreen">$:/SplashScreen</a></p>]]></content:encoded>
-	  <pubDate>Fri, 02 Dec 2022 14:55:43 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#Added%20loading%20screen</link>
-      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Added%20loading%20screen</guid>
-   </item><item>
-      <title>Added a simple way to support en/fr translation on a tiddler basis</title>
-      <description></description>
-      <category>$:/Feed</category>
-      <content:encoded><![CDATA[<p>Create a field <code>lang</code> and set it to the language of the tiddler, for now <code>en</code> OR <code>fr</code>
-Then set a field <code>fr</code> OR <code>en</code> containing the name of the translated tiddler.</p><p><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2FLibro%2FTranslation">$:/Libro/Translation</a></p>]]></content:encoded>
-	  <pubDate>Wed, 23 Nov 2022 22:56:36 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#Added%20a%20simple%20way%20to%20support%20en%2Ffr%20translation%20on%20a%20tiddler%20basis</link>
-      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Added%20a%20simple%20way%20to%20support%20en%2Ffr%20translation%20on%20a%20tiddler%20basis</guid>
-   </item><item>
-      <title>Added GitHub comments plugin</title>
-      <description></description>
-      <category>$:/Feed</category>
-      <content:encoded><![CDATA[<p>Link to the plugin: <a class="tc-tiddlylink-external" href="https://github.com/breakzplatform/tw5-github-comments" rel="noopener noreferrer" target="_blank">https://github.com/breakzplatform/tw5-github-comments</a></p><p>It's great, very easy to setup.</p>]]></content:encoded>
-	  <pubDate>Mon, 21 Nov 2022 20:26:58 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#Added%20GitHub%20comments%20plugin</link>
-      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Added%20GitHub%20comments%20plugin</guid>
-   </item><item>
-      <title>Updated $:/Feed</title>
-      <description></description>
-      <category>$:/Feed</category>
-      <content:encoded><![CDATA[<p>The name is changed from Announcement to Feed to be more fitting, and the post to feed editor in the sidebar now support keyboard shortcuts thanks to the editor macro.</p>]]></content:encoded>
-	  <pubDate>Mon, 21 Nov 2022 02:30:53 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#Updated%20%24%3A%2FFeed</link>
-      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Updated%20%24%3A%2FFeed</guid>
-   </item><item>
-      <title>Add a dropdown button to group the various file upload tools</title>
-      <description></description>
-      <category>$:/Feed</category>
-      <content:encoded><![CDATA[<p>See <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com/#%24%3A%2Flibro%2FFileUpload%2FDropDown%2FButton">$:/libro/FileUpload/DropDown/Button</a>.</p><p>This is to avoid clutter in the toolbar.</p>]]></content:encoded>
-	  <pubDate>Mon, 21 Nov 2022 02:25:39 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#Add%20a%20dropdown%20button%20to%20group%20the%20various%20file%20upload%20tools</link>
-      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Add%20a%20dropdown%20button%20to%20group%20the%20various%20file%20upload%20tools</guid>
-   </item><item>
-      <title>Updated $:/Libro/ExternalLinksIcon/Style</title>
-      <description></description>
-      <category>$:/Feed</category>
-      <content:encoded><![CDATA[<p>Tiddlers used as tags with a icon field now only display their custom icon and do not display the default tag icon.</p><p>This section was added: </p><pre class="hljs"><code class="css hljs"><span class="hljs-comment">/*Remove the default icon if there is a custom icon for this tag*/</span>
-
-<span class="hljs-selector-class">.tc-tag-list-item</span><span class="hljs-selector-pseudo">:is</span>(&lt;$list <span class="hljs-attribute">filter</span>=&quot;<span class="hljs-selector-attr">[has[icon]</span>]&quot;&gt;<span class="hljs-selector-attr">[data-tag-title=<span class="hljs-string">&quot;{{!!title}}&quot;</span>]</span>,&lt;/$list&gt;)&gt;<span class="hljs-selector-class">.tc-tag-label</span>:{{!!side}}{
-<span class="hljs-attribute">all</span>:unset;
-}</code></pre>]]></content:encoded>
-	  <pubDate>Mon, 21 Nov 2022 02:22:56 GMT</pubDate>
-      <link>https://libro.tiddlyhost.com/#Updated%20%24%3A%2FLibro%2FExternalLinksIcon%2FStyle</link>
-      <guid isPermaLink='true'>https://libro.tiddlyhost.com/#Updated%20%24%3A%2FLibro%2FExternalLinksIcon%2FStyle</guid>
+      <category>article</category>
+      <content:encoded><![CDATA[<p><p><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://rss.tiddlyhost.com#%24%3A%2FFeed%2FSettings">$:/Feed/Settings</a></p></p>]]></content:encoded>
+	  <pubDate>Wed, 28 Dec 2022 21:47:38 GMT</pubDate>
+      <link>https://rss.tiddlyhost.com#Updated%20%24%3A%2FFeed%2FSettings</link>
+      <guid isPermaLink='true'>https://rss.tiddlyhost.com#Updated%20%24%3A%2FFeed%2FSettings</guid>
    </item>
 </channel>
 </rss>
