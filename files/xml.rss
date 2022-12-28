@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
   <atom:link href="https://Telumire.github.io/Libro/files/xml.rss" rel="self" type="application/rss+xml" />
-  <title>RSS</title>
-  <link>https://rss.tiddlyhost.com</link>
-  <description>Rss feed in tiddlywiki</description>
-  <language>en-GB</language>
-  <lastBuildDate>Wed, 28 Dec 2022 21:47:38 GMT</lastBuildDate>
+  <title>Libro</title>
+  <link>https://libro.tiddlyhost.com</link>
+  <description>A custom tiddlywiki edition</description>
+  <language>en-EN</language>
+  <lastBuildDate>Wed, 28 Dec 2022 21:49:38 GMT</lastBuildDate>
 	<item>
       <title>Updated $:/Feed/Settings</title>
       <description></description>
       <category>article</category>
-      <content:encoded><![CDATA[<p><p><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://rss.tiddlyhost.com#%24%3A%2FFeed%2FSettings">$:/Feed/Settings</a></p></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><p><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com#%24%3A%2FFeed%2FSettings">$:/Feed/Settings</a></p></p>]]></content:encoded>
 	  <pubDate>Wed, 28 Dec 2022 21:47:38 GMT</pubDate>
-      <link>https://rss.tiddlyhost.com#Updated%20%24%3A%2FFeed%2FSettings</link>
-      <guid isPermaLink='true'>https://rss.tiddlyhost.com#Updated%20%24%3A%2FFeed%2FSettings</guid>
+      <link>https://libro.tiddlyhost.com#Updated%20%24%3A%2FFeed%2FSettings</link>
+      <guid isPermaLink='true'>https://libro.tiddlyhost.com#Updated%20%24%3A%2FFeed%2FSettings</guid>
    </item>
 </channel>
 </rss>
