@@ -6,8 +6,16 @@
   <link>https://libro.tiddlyhost.com</link>
   <description>A custom tiddlywiki edition</description>
   <language>en-EN</language>
-  <lastBuildDate>Wed, 28 Dec 2022 21:49:38 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 06 Apr 2023 09:15:06 GMT</lastBuildDate>
 	<item>
+      <title>Added a button to edit a tiddler in a new, single window</title>
+      <description></description>
+      <category>article</category>
+      <content:encoded><![CDATA[<p><p><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com#%24%3A%2Fui%2Fbuttons%2Fedit-in-new-window">$:/ui/buttons/edit-in-new-window</a></p><p>Very useful for note taking</p></p>]]></content:encoded>
+	  <pubDate>Thu, 06 Apr 2023 09:15:06 GMT</pubDate>
+      <link>https://libro.tiddlyhost.com#Added%20a%20button%20to%20edit%20a%20tiddler%20in%20a%20new%2C%20single%20window</link>
+      <guid isPermaLink='true'>https://libro.tiddlyhost.com#Added%20a%20button%20to%20edit%20a%20tiddler%20in%20a%20new%2C%20single%20window</guid>
+   </item><item>
       <title>Updated $:/Feed/Settings</title>
       <description></description>
       <category>article</category>
